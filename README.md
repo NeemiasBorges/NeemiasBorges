@@ -8,10 +8,12 @@
 
 - 🌱 I’m currently learning **REACT and .NET**
 
-- 📫 How to reach me **ifsp.neemiasb@gmail.com**
+- 📫 How to reach me **neemiasb.dev@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - https://www.linkedin.com/in/neemias-borges-8653a61a2/
+  - https://github.com/Neemoasb
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
