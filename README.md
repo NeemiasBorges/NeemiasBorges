@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neemias Borges</h1>
+<h4 align="center"> SQL | HANA | ABAP | Crystal Reports | C# | BackEnd | Javascript | SAP Business One</h4>
 <h3 align="center">.NET programmer focusing on microservices and SAP Business One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neemoasb&label=Profile%20views&color=0e75b6&style=flat" alt="neemoasb" /> </p>
