@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Neemias Borges</h1>
-<h5 align="center"> SQL | HANA | ABAP | Crystal Reports | C# | BackEnd | Javascript | SAP Business One</h5>
+<h5 align="center"> SQL | HANA | ABAP | Crystal Reports | C# | BackEnd | Javascript | SAP Business One | OSINT </h5>
 <h3 align="center">.NET programmer focusing on microservices and SAP Business One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neemoasb&label=Profile%20views&color=0e75b6&style=flat" alt="neemoasb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neemoasb" alt="neemoasb" /></a> </p>
 
-- 🌱 I’m currently learning **REACT and .NET**
+- 🌱 I’m currently learning **REACT, Flutter and .NET**
 
-- 📫 How to reach me **neemiasb.dev@gmail.com** 
+- 📫 How to reach me **neemiasb.dev@gmail.com** or **https://t.me/+ajambfnc06xiODJh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
