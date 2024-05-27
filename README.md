@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Neemias Borges de Matos</h1>
 <h5 align="center"> SQL | HANA | ABAP | Crystal Reports | C# | BackEnd | Javascript | SAP Business One | OSINT </h5>
 <h3 align="center">.NET programmer focusing on microservices and SAP Business One</h3>
@@ -8,13 +10,29 @@
 
 - 🌱 I’m currently learning **REACT, Flutter and .NET**
 
-- 📫 How to reach me **neemiasb.dev@gmail.com** or **https://t.me/+ajambfnc06xiODJh**
+- 📫 How to reach me **neemiasb.dev@gmail.com** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  - https://www.linkedin.com/in/neemias-borges-8653a61a2/ 
-  - https://github.com/NeemiasBorges
-  - https://neemiasborges.github.io/portfolio/
+
+<h3>Connect with me:</h3>
+<p>
+    <a href="neemiasb.dev@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://t.me/+ajambfnc06xiODJh/" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+    </a>
+    <a href="https://github.com/NeemiasBorges/" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+    </a>
+    <a href="https://medium.com/@neemiasb.dev/" target="_blank">
+        <img alt="Medium" src="https://img.shields.io/badge/Medium-green?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/neemias-borges/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+     <a href="https://neemiasborges.github.io/portfolio/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    </a>
 </p>
 <br>
 
