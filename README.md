@@ -15,7 +15,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-    <a href="neemiasb.dev@gmail.com" target="_blank">
+    <a href="mailto:neemiasb.dev@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://t.me/+ajambfnc06xiODJh/" target="_blank">
