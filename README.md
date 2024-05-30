@@ -36,7 +36,7 @@
 
 <h3 align="left">Certifications:</h3> 
 
-- **Foundational C# with Microsoft Certification** (Microsoft and Freecodecamp)<br>
+- **Foundational C# with Microsoft Certification** by Microsoft<br>
 - **LSSWBPC** (Lean Six Sigma White Belt Professional Certificate) by CertiProf   <br>
 - **SFC** (Scrum Fundamentals Certified) by ScrumStudy   <br>
 - **RWPC** (Remote Work Professional Certificate) by CertiProf <br>
