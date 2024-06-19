@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neemias Borges Matos</h1>
-<h5 align="center"> SQL | HANA | ABAP | Crystal Reports | C# | BackEnd | Javascript | SAP Business One | OSINT </h5>
+<h5 align="center"> SQL | HANA | Crystal Reports | C# | BackEnd | Javascript | SAP Business One | OSINT </h5>
 <h3 align="center">.NET programmer focusing on microservices and SAP Business One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neemoasb&label=Profile%20views&color=0e75b6&style=flat" alt="Neemoasb" /> </p>
