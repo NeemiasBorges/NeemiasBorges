@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neemoasb&label=Profile%20views&color=0e75b6&style=flat" alt="Neemoasb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeemiasBorges&theme=onedark" alt="NeemiasBorges" /></a> </p>
-- 🌱 I’m currently learning **Go, REACT, Flutter and .NET**
 
+- 🌱 I’m currently learning **Go, REACT, Flutter and .NET**
 - 📫 How to reach me **neemiasb.dev@gmail.com** 
 
 
