@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeemiasBorges&theme=onedark" alt="NeemiasBorges" /></a> </p>
 
-- 🌱 I’m currently learning **Go, REACT, Flutter and .NET**
+- 🌱 I’m currently learning **AWS, IA, Angular, .NET and Js**
 - 📫 How to reach me **neemiasb.dev@gmail.com** 
 
 
