@@ -39,9 +39,8 @@ Achieved:
 
 Currently Studying for Certifications:
 - 🔸 AWS Certification (Cloud Practitioner)
-- 🔸 Microsoft Fabric Certification
-- 🔸 Microsoft AI Certification
-- 🔸 Azure AI Certification
+- 🔸 **DP-600** - Microsoft Fabric Certification
+- 🔸 **AI 900** - Microsoft AI Certification
 
 ### 📊 GitHub Statistics
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NeemiasBorges&theme=radical&show_icons=true)
