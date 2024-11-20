@@ -31,11 +31,11 @@ Specialist in microservices development, AWS cloud solutions, and AI/LLM integra
 
 ### 🏆 Certifications
 Achieved:
-- 🔹 **FCSH** - Microsoft Foundational C# Certification
+- 🔹 **FCSH** - Microsoft C# Certification
 - 🔹 **LSSWBPC** - Lean Six Sigma White Belt Professional Certificate
 - 🔹 **SFC** - Scrum Fundamentals Certified
 - 🔹 **RWPC** - Remote Work Professional Certificate
-- 🔹 **SFPC** - Scrum Foundation Professional Certification
+- 🔹 **SFPC** - Scrum Foundation Professional Certificate
 
 Currently Studying for Certifications:
 - 🔸 AWS Certification (Cloud Practitioner)
