@@ -38,7 +38,7 @@ Achieved:
 - 🔹 **SFPC** - Scrum Foundation Professional Certificate
 
 Currently Studying for Certifications:
-- 🔸 AWS Certification (Cloud Practitioner)
+- 🔸 **CLF-C02** - AWS Certification (Cloud Practitioner)
 - 🔸 **DP-600** - Microsoft Fabric Certification
 - 🔸 **AI 900** - Microsoft AI Certification
 
