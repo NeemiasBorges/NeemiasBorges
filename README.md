@@ -11,6 +11,7 @@ Specialist in microservices development, AWS cloud solutions, and AI/LLM integra
 
 ### 🛠️ Technologies & Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,6 +21,7 @@ Specialist in microservices development, AWS cloud solutions, and AI/LLM integra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-0089D6?style=for-the-badge&logo=totvs&logoColor=white)
 
 ### 🧠 AI & Cloud Expertise
 - AWS Machine Learning
