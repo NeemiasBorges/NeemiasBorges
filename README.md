@@ -21,7 +21,7 @@ Specialist in microservices development, AWS cloud solutions, and AI/LLM integra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-0089D6?style=for-the-badge&logo=totvs&logoColor=white)
+![TOTVS](https://img.shields.io/badge/TOTVS_Protheus-0089D6?style=for-the-badge&logo=totvs&logoColor=white)
 
 ### 🧠 AI & Cloud Expertise
 - AWS Machine Learning
