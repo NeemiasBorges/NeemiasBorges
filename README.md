@@ -41,8 +41,8 @@ Achieved:
 
 Currently Studying for Certifications:
 - 🔸 **CLF-C02** - AWS Certification (Cloud Practitioner)
-- 🔸 **DP-600** - Microsoft Fabric Certification
 - 🔸 **AI 900** - Microsoft AI Certification
+- 🔸 **AZ 240** - Microsoft Azure Developer Associate
 
 ### 📊 GitHub Statistics
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NeemiasBorges&theme=radical&show_icons=true)
