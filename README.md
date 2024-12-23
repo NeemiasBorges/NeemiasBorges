@@ -33,6 +33,7 @@ Specialist in microservices development, AWS cloud solutions, and AI/LLM integra
 
 ### 🏆 Certifications
 Achieved:
+- 🔹 **CLF-C02** - AWS Certification (Cloud Practitioner)
 - 🔹 **FCSH** - Microsoft C# Certification
 - 🔹 **LSSWBPC** - Lean Six Sigma White Belt Professional Certificate
 - 🔹 **SFC** - Scrum Fundamentals Certified
@@ -40,7 +41,6 @@ Achieved:
 - 🔹 **SFPC** - Scrum Foundation Professional Certificate
 
 Currently Studying for Certifications:
-- 🔸 **CLF-C02** - AWS Certification (Cloud Practitioner)
 - 🔸 **AI 900** - Microsoft AI Certification
 - 🔸 **AZ 240** - Microsoft Azure Developer Associate
 
