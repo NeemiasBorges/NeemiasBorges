@@ -42,7 +42,7 @@ Achieved:
 
 Currently Studying for Certifications:
 - 🔸 **AI 900** - Microsoft AI Certification
-- 🔸 **AZ 240** - Microsoft Azure Developer Associate
+- 🔸 **AZ 204** - Microsoft Azure Developer Associate
 
 ### 📊 GitHub Statistics
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NeemiasBorges&theme=radical&show_icons=true)
