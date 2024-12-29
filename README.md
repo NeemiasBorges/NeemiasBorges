@@ -41,7 +41,8 @@ Achieved:
 - 🔹 **SFPC** - Scrum Foundation Professional Certificate
 
 Currently Studying for Certifications:
-- 🔸 **AI 900** - Microsoft AI Certification
+- 🔸 **ISTQB CTFL** - Certified Tester Foundation Level
+- 🔸 **AIF-C01** - AWS Certified AI Practitioner
 - 🔸 **AZ 204** - Microsoft Azure Developer Associate
 
 ### 📊 GitHub Statistics
