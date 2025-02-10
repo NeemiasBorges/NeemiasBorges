@@ -35,7 +35,7 @@ Specialist in microservices development, AWS cloud solutions, and AI/LLM integra
 Achieved:
 - 🔹 **CLF-C02** - AWS Certification (Cloud Practitioner)
 - 🔹 **AIF-C01** - AWS Certified AI Practitioner
-- 🔹 **FCSH** - Microsoft C# Certification
+- 🔹 **MCSA** - Foundational C# Microsoft
 - 🔹 **LSSWBPC** - Lean Six Sigma White Belt Professional Certificate
 - 🔹 **SFC** - Scrum Fundamentals Certified
 - 🔹 **RWPC** - Remote Work Professional Certificate
@@ -43,7 +43,6 @@ Achieved:
 
 Currently Studying for Certifications:
 - 🔸 **AZ 204** - Microsoft Azure Developer Associate
-- 🔸 **ISTQB CTFL** - Certified Tester Foundation Level
 
 ### 📊 GitHub Statistics
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NeemiasBorges&theme=radical&show_icons=true)
@@ -56,9 +55,11 @@ Currently Studying for Certifications:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Neemias/)
 
 ### 🌱 Currently Learning
-- Advanced AWS Techniques
+- AWS Techniques
+- Azure
 - Artificial Intelligence
-- Advanced Angular
+- Angular
+- React
 - .NET Advanced
 - Advanced JavaScript
 
