@@ -43,6 +43,7 @@ Achieved:
 
 Currently Studying for Certifications:
 - 🔸 **AZ 204** - Microsoft Azure Developer Associate
+- 🔸 **SPM 01** - Scrum 
 
 ### 📊 GitHub Statistics
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NeemiasBorges&theme=radical&show_icons=true)
@@ -55,10 +56,8 @@ Currently Studying for Certifications:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Neemias/)
 
 ### 🌱 Currently Learning
-- AWS Techniques
 - Azure
 - Artificial Intelligence
-- Angular
 - React
 - .NET Advanced
 - Advanced JavaScript
